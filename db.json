@@ -1,0 +1,144 @@
+{
+    "Ação":[
+
+        {
+            "id": 1,
+            "titulo": "O resgate do soldado Ryan",
+            "diretor": "Steven Spielberg",
+            "sinopse": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, o Capitão Miller recebe a missão de comandar um grupo do Segundo Batalhão para o resgate do soldado James Ryan, o caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+            "valor": 11.90
+             
+        },
+        
+        {
+            "id": 2,
+            "titulo": "Vingança Fatal",
+            "diretor": "Jared Cohn",
+            "sinopse": "Um homem busca vingar o assassinato de sua filha pelas mãos de um mafioso. Ele acaba por começar uma guerra explosiva contra uma perigosa gangue.",
+            "valor": 10.50
+        },
+       
+        {
+            "id": 3,
+            "titulo": "As Agentes 355",
+            "diretor": "Simon Kinberg",
+            "sinopse": "A agente da CIA Mace Brown se une a uma agente alemã rival, uma especialista em computadores e uma psicóloga colombiana para deter um grupo de mercenários e recuperar uma arma secreta.",
+            "valor": 14.00
+        },
+        
+       
+        {
+            "id": 4,
+            "titulo": "Adão Negro",
+            "diretor": "Jaume Collet-Serra",
+            "sinopse": "O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra. ",
+            "valor": 12.20
+        }
+    ],
+
+    "Romance": [
+
+        {
+            "id": 5,
+            "titulo": "Ajustando um Amor",
+            "diretor": "Alexandre Lehmann",
+            "sinopse": "Sheila e Gary se conhecem e é amor à primeira vista. Mas o encontro mágico dos dois não foi obra do acaso. Sheila tem uma máquina do tempo e sempre volta para a noite em que os dois se viram pela primeira vez. Mas ela logo começa a alterar o passado, mudando a sua vida e a realidade de todos ao seu redor. ",
+            "valor": 11.35
+        },
+        
+        {
+            "id": 6, 
+            "titulo": "Casal de Fachada",
+            "diretor": "Richard Wong",    
+            "sinopse": "A atriz Olivia enfrenta um desastre quando um paparazzi tira uma foto dela com seu amante Vincent. O manobrista Antonio acidentalmente aparece na mesma foto, e é alistado para posar como o novo namorado de Olivia para encobrir o caso.",    
+            "valor": 13.70      
+        },
+
+        {
+            "id": 7,    
+            "titulo": "Amor de Redenção",
+            "diretor": "D. J. Caruso",
+            "sinopse": "O relacionamento de um jovem casal se choca com as duras realidades da Corrida do Ouro na Califórnia de 1850. Angel, experimentando o amor pela primeira vez e enfrentando demônios que parecem insuperáveis, foge da nova vida que ela acha que não merece. No entanto, durante a busca de Michael pela sua amada, Angel descobre que ela tem o poder de escolher a vida que quer.",
+            "valor": 18.00
+        },
+
+        {
+            "id": 8,    
+            "titulo": "Ingresso para o Paraíso",
+            "diretor": "Ol Parker",
+            "sinopse": "Um ex-casal tenta impedir sua filha apaixonada de cometer o mesmo erro que eles cometeram. ",
+            "valor": 11.90
+        }
+    ],
+
+    "investigacao-criminal":[
+
+        {
+            "id": 9,
+            "titulo": "Sobre meninos e lobos",
+            "diretor": "Clint Eastwood",
+            "sinopse": "Três amigos de infância, Dave, Sean e Jimmy acabam se separando quando um deles, Dave, é sequestrado e sofre terríveis abusos sexuais. Agora adultos, o passado volta a assombrá-los quando a filha de Jimmy é assassinada. Sean é o policial que investiga o caso, Jimmy quer revanche e Dave é o principal suspeito.",
+            "valor": 12.90
+        },
+
+        {
+            "id": 10,
+            "titulo": "Se7en - Os Sete Crimes Capitais",
+            "diretor": "David Fincher",
+            "sinopse": "A ponto de se aposentar, o detetive William Somerset pega um último caso, com a ajuda do recém-transferido David Mills. Juntos, descobrem uma série de assassinatos e logo percebem que estão lidando com um assassino que tem como alvo pessoas que ele acredita representar os sete pecados capitais.",
+            "valor": 11.80
+        }, 
+
+        {
+            "id": 11,
+            "titulo": "Roubando vidas",
+            "diretor": "D. J. Caruso",
+            "sinopse": "Um assassino traiçoeiro está se passando por uma de suas vítimas enquanto viaja por todo o Canadá. Uma onda recente de assassinatos em Montreal trouxe a agente do FBI Illeana Scott para o norte para investigar. Os métodos incomuns de Scott rapidamente ganham a suspeita da polícia local, mas que a levam até o negociante de arte James Costa, que diz ter sido uma testemunha ocular do assassinato mais recente.",
+            "valor": 19.90
+        },
+
+        {
+            
+           "id": 12,
+           "titulo": "Dia de treinamento",
+           "diretor": "Antoine Fuqua",
+           "sinopse": "Jake Hoyt, um jovem policial de Los Angeles, entra para a equipe de narcóticos e recebe como oficial de treinamento e parceiro Alonzo Harris, um policial veterano e desonesto. Ao longo do dia, o novato é exposto a todo tipo de corrupção e acusado de assassinato, acontecimentos que são orquestrados por Alonzo a fim de encobrir um engano cometido por ele junto à máfia russa.",
+           "valor": 13.89
+        }
+    ],
+
+    "Ficção científica":[
+
+        {
+            "id": 13,
+            "titulo": "Não! Não olhe!",
+            "diretor": "Jordan Peele",
+            "sinopse": "Os cuidadores de um rancho de cavalos na Califórnia encontram uma força misteriosa que afeta o comportamento humano e animal.",
+            "valor": 12.99
+        },
+
+        {
+            "id": 14,
+            "titulo": "Infinito",
+            "diretor": "Antoine Fuqua",
+            "sinopse": "Evan McCauley tem sua vida diária assombrada por habilidades que nunca aprendeu e memórias de lugares que nunca visitou. Automedicado e à beira de um ataque de nervos, Evan é contatado pelos Infinitos, um grupo secreto que revela a ele que suas memórias podem ser reais, porém vindas de múltiplas vidas passadas.",
+            "valor": 14.90
+        },
+
+        {
+            "id": 15,
+            "titulo": "Duna",
+            "diretor": "Denis Villeneuve",
+            "sinopse": "Paul Atreides é um jovem brilhante, dono de um destino além de sua compreensão. Ele deve viajar para o planeta mais perigoso do universo para garantir o futuro de seu povo.",
+            "valor": 14.00
+        },
+
+        {
+            "id": 16,
+            "titulo": "Jurassic World: Domínio",
+            "diretor": "Colin Trevorrow",
+            "sinopse": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem e caçam ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodela o futuro e deve determinar de uma vez por todas se os seres humanos continuarão sendo a espécie dominante em um planeta que agora compartilham com as criaturas mais temíveis da história.",
+            "valor": 13.00
+        }
+    ]
+}
